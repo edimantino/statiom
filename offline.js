@@ -1,0 +1,31 @@
+﻿{
+	"version": 1504766442,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/chão-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/sprite-sheet2.png",
+		"images/personagem-sheet0.png",
+		"images/esq-sheet0.png",
+		"images/jungle_background_by_kikicianjurd4smgan-sheet0.png",
+		"images/grassland-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/bigfestivalgamesjogosevento-sheet0.png",
+		"images/ground-sheet0.png",
+		"images/grama_top-sheet0.png",
+		"images/a72a9f367363d83ca70227d13f18c174gamebackgroundartgameart-sheet0.png",
+		"images/barranco_flutuante-sheet0.png",
+		"images/btn_retry-sheet0.png",
+		"media/theme.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
